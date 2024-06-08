@@ -1,4 +1,4 @@
-#ACP Project "Osmi Notepad"
+# ACP Project "Osmi Notepad"
 
 ![Screenshot 2024-05-31 114300](https://github.com/Osmi-Bytes/Java-Project/assets/100902550/18761477-d4e3-42b4-9dd5-7cec74fd2c31) 
 
