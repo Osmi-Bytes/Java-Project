@@ -6,4 +6,5 @@
 
 ![Screenshot 2024-05-31 111428](https://github.com/Osmi-Bytes/Java-Project/assets/100902550/89319d19-d4e0-4007-8b45-d52a0c1669ae) 
 
-![Screenshot (31)](https://github.com/Osmi-Bytes/Java-Project/assets/100902550/8aecf4fe-acdd-4b36-9026-e40bd00591cf)
+![Screenshot (34)](https://github.com/Osmi-Bytes/Java-Project/assets/100902550/a7b33c43-0110-4115-9d53-70da93a36c3d)
+
